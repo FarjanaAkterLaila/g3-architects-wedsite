@@ -374,9 +374,10 @@ hr {
 
     .header {
 
-        width: 100%;
+        width: 90%;
         height: 100%;
-        /* text-align: center; */
+         text-align: center; 
+        
 
     }
 
@@ -401,7 +402,10 @@ hr {
         gap: 2px;
         padding: 10px 20px;
     }
-
+.main-menu{
+    align-items: center;
+    padding: 0px;
+}
     .contact {
         margin-left: 0px;
 
